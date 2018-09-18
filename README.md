@@ -9,3 +9,5 @@ $ npm install
 ```sh
 $ npm start
 ```
+
+### Aplication is running on port 9000
